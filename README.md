@@ -1,4 +1,4 @@
-### Links to go through for various Note's :
+###  Various Links :
 
 - [Cheat Sheet](https://github.com/jasonbaciulis/javascript-understanding-the-weird-parts)
 
